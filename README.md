@@ -1,8 +1,6 @@
 # Unfriendly Friend
 ## Global Game Jam Valdivia 2020
 
-I forgot to save the source code 😢, the source code on the GGJ webpage is the executable
-
 [Check the game here!](https://globalgamejam.org/2020/games/unfriendly-friend-0)
 
 ## Credits to:

@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 6283b6af39c112c4fa8c493abc65b3c2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camino Cruz
+    100002: Camino L
+    100004: 'Camino recto '
+    100006: Camino recto (ancho) 2
+    100008: Camino T
+    100010: //RootNode
+    100012: Pasto
+    400000: Camino Cruz
+    400002: Camino L
+    400004: 'Camino recto '
+    400006: Camino recto (ancho) 2
+    400008: Camino T
+    400010: //RootNode
+    400012: Pasto
+    2100000: Material.009
+    2100002: Material.008
+    2100004: Material.007
+    2100006: Material.010
+    2300000: Camino Cruz
+    2300002: Camino L
+    2300004: 'Camino recto '
+    2300006: Camino recto (ancho) 2
+    2300008: Camino T
+    2300010: Pasto
+    3300000: Camino Cruz
+    3300002: Camino L
+    3300004: 'Camino recto '
+    3300006: Camino recto (ancho) 2
+    3300008: Camino T
+    3300010: Pasto
+    4300000: Camino Cruz
+    4300002: Camino T
+    4300004: Camino L
+    4300006: Pasto
+    4300008: Camino recto (ancho) 2
+    4300010: 'Camino recto '
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
